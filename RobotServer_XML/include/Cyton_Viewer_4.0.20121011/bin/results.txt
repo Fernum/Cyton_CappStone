@@ -1,0 +1,10 @@
+Plugin 'mainWidgetPlugin' loaded successfully.
+Plugin 'simulationPlugin' loaded successfully.
+Plugin 'manipulatorConfigPlugin' loaded successfully.
+Plugin 'endEffectorControlPlugin' loaded successfully.
+Plugin 'cytonViewerPlugin' loaded successfully.
+Plugin 'recordPlaybackPlugin' loaded successfully.
+Plugin 'pathPlugin' loaded successfully.
+Plugin 'helpMenuPlugin' loaded successfully.
+Plugin 'cytonPlugin' loaded successfully.
+File (cyton.ecz) loaded in 0.71 seconds

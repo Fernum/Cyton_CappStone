@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RobotData>
+  <Robot id="0">
+    <Data id="0" value="0.0"/>
+    <Data id="1" value="0.0"/>
+    <Data id="2" value="0.0"/>
+    <Data id="3" value="0.0"/>
+    <Data id="4" value="0.0"/>
+    <Data id="5" value="0.0"/>
+    <Data id="6" value="0.0"/>
+    <Data id="7" value="0.0"/>
+  </Robot>
+  <Robot id="1">
+    <Data id="0" value="0.0"/>
+    <Data id="1" value="0.0"/>
+    <Data id="2" value="0.0"/>
+    <Data id="3" value="0.0"/>
+    <Data id="4" value="0.0"/>
+    <Data id="5" value="0.0"/>
+    <Data id="6" value="0.0"/>
+    <Data id="7" value="0.0"/>
+  </Robot>
+</RobotData>

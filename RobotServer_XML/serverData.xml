@@ -1,0 +1,22 @@
+<RobotData>
+  <Robot ID="0">
+    <Joint ID="0" Value="0.0"/>
+    <Joint ID="1" Value="0.0"/>
+    <Joint ID="2" Value="0.0"/>
+    <Joint ID="3" Value="0.0"/>
+    <Joint ID="4" Value="0.0"/>
+    <Joint ID="5" Value="64.0"/>
+    <Joint ID="6" Value="0.0"/>
+    <Joint ID="7" Value="0.0"/>
+  </Robot>
+  <Robot ID="1">
+    <Joint ID="0" Value="0.0"/>
+    <Joint ID="1" Value="0.0"/>
+    <Joint ID="2" Value="0.0"/>
+    <Joint ID="3" Value="0.0"/>
+    <Joint ID="4" Value="0.0"/>
+    <Joint ID="5" Value="0.0"/>
+    <Joint ID="6" Value="0.0"/>
+    <Joint ID="7" Value="0.0"/>
+  </Robot>
+</RobotData>

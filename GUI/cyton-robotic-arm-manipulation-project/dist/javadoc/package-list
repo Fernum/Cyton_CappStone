@@ -1,0 +1,13 @@
+robotinterface
+robotinterface.client
+robotinterface.dao
+robotinterface.dialogs
+robotinterface.factory
+robotinterface.factory.panel
+robotinterface.list
+robotinterface.list.actions
+robotinterface.list.entry
+robotinterface.list.listeners
+robotinterface.menu
+robotinterface.parser
+robotinterface.util
